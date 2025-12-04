@@ -1,0 +1,151 @@
+{
+  "metadata": {
+    "symbol": "AAPL",
+    "export_timestamp": "2025-11-28T06:13:12.144177",
+    "analysis_method": "finbert",
+    "version": "1.0"
+  },
+  "summary": {
+    "aggregate_score": 70.64,
+    "sentiment_label": "positive",
+    "article_count": 5,
+    "average_confidence": 0.771
+  },
+  "articles": [
+    {
+      "article_number": 1,
+      "title": "Apple's new iPhone smashes sales records",
+      "combined_score": 39.449,
+      "combined_confidence": 0.8407399999999998,
+      "age_weight": 1.0,
+      "title_sentiment": {
+        "sentiment": "negative",
+        "confidence": 0.7988,
+        "scores": {
+          "positive": 0.1023,
+          "negative": 0.7988,
+          "neutral": 0.0989
+        },
+        "sentiment_score": 15.17
+      },
+      "content_sentiment": {
+        "sentiment": "positive",
+        "confidence": 0.9386,
+        "scores": {
+          "positive": 0.9386,
+          "negative": 0.0167,
+          "neutral": 0.0448
+        },
+        "sentiment_score": 96.1
+      }
+    },
+    {
+      "article_number": 2,
+      "title": "AAPL announces revolutionary new M-series chip",
+      "combined_score": 81.964,
+      "combined_confidence": 0.6586799999999999,
+      "age_weight": 1.0,
+      "title_sentiment": {
+        "sentiment": "positive",
+        "confidence": 0.5745,
+        "scores": {
+          "positive": 0.5745,
+          "negative": 0.0149,
+          "neutral": 0.4105
+        },
+        "sentiment_score": 77.98
+      },
+      "content_sentiment": {
+        "sentiment": "positive",
+        "confidence": 0.8551,
+        "scores": {
+          "positive": 0.8551,
+          "negative": 0.0299,
+          "neutral": 0.1149
+        },
+        "sentiment_score": 91.26
+      }
+    },
+    {
+      "article_number": 3,
+      "title": "Apple's Vision Pro 2 is coming sooner than expected",
+      "combined_score": 60.206999999999994,
+      "combined_confidence": 0.7677399999999999,
+      "age_weight": 1.0,
+      "title_sentiment": {
+        "sentiment": "neutral",
+        "confidence": 0.7549,
+        "scores": {
+          "positive": 0.2337,
+          "negative": 0.0114,
+          "neutral": 0.7549
+        },
+        "sentiment_score": 61.11
+      },
+      "content_sentiment": {
+        "sentiment": "neutral",
+        "confidence": 0.7977,
+        "scores": {
+          "positive": 0.1822,
+          "negative": 0.0202,
+          "neutral": 0.7977
+        },
+        "sentiment_score": 58.1
+      }
+    },
+    {
+      "article_number": 4,
+      "title": "Apple reports strong growth in its services division",
+      "combined_score": 94.22399999999999,
+      "combined_confidence": 0.92812,
+      "age_weight": 1.0,
+      "title_sentiment": {
+        "sentiment": "positive",
+        "confidence": 0.9541,
+        "scores": {
+          "positive": 0.9541,
+          "negative": 0.0154,
+          "neutral": 0.0305
+        },
+        "sentiment_score": 96.93
+      },
+      "content_sentiment": {
+        "sentiment": "positive",
+        "confidence": 0.8675,
+        "scores": {
+          "positive": 0.8675,
+          "negative": 0.1093,
+          "neutral": 0.0232
+        },
+        "sentiment_score": 87.91
+      }
+    },
+    {
+      "article_number": 5,
+      "title": "Warren Buffett increases his stake in Apple",
+      "combined_score": 78.089,
+      "combined_confidence": 0.65829,
+      "age_weight": 1.0,
+      "title_sentiment": {
+        "sentiment": "neutral",
+        "confidence": 0.5397,
+        "scores": {
+          "positive": 0.4345,
+          "negative": 0.0258,
+          "neutral": 0.5397
+        },
+        "sentiment_score": 70.43
+      },
+      "content_sentiment": {
+        "sentiment": "positive",
+        "confidence": 0.935,
+        "scores": {
+          "positive": 0.935,
+          "negative": 0.0159,
+          "neutral": 0.0491
+        },
+        "sentiment_score": 95.96
+      }
+    }
+  ]
+}

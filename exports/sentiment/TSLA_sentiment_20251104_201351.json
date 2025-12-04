@@ -1,0 +1,151 @@
+{
+  "metadata": {
+    "symbol": "TSLA",
+    "export_timestamp": "2025-11-04T20:13:51.726351",
+    "analysis_method": "finbert",
+    "version": "1.0"
+  },
+  "summary": {
+    "aggregate_score": 16.09,
+    "sentiment_label": "negative",
+    "article_count": 5,
+    "average_confidence": 0.864
+  },
+  "articles": [
+    {
+      "article_number": 1,
+      "title": "Tesla faces major recall over safety concerns",
+      "combined_score": 2.624,
+      "combined_confidence": 0.95739,
+      "age_weight": 1.0,
+      "title_sentiment": {
+        "sentiment": "negative",
+        "confidence": 0.9627,
+        "scores": {
+          "positive": 0.0093,
+          "negative": 0.9627,
+          "neutral": 0.028
+        },
+        "sentiment_score": 2.33
+      },
+      "content_sentiment": {
+        "sentiment": "negative",
+        "confidence": 0.945,
+        "scores": {
+          "positive": 0.0113,
+          "negative": 0.945,
+          "neutral": 0.0437
+        },
+        "sentiment_score": 3.31
+      }
+    },
+    {
+      "article_number": 2,
+      "title": "Production delays plague Tesla's new factory",
+      "combined_score": 3.068,
+      "combined_confidence": 0.9477499999999999,
+      "age_weight": 1.0,
+      "title_sentiment": {
+        "sentiment": "negative",
+        "confidence": 0.941,
+        "scores": {
+          "positive": 0.0091,
+          "negative": 0.941,
+          "neutral": 0.0499
+        },
+        "sentiment_score": 3.41
+      },
+      "content_sentiment": {
+        "sentiment": "negative",
+        "confidence": 0.9635,
+        "scores": {
+          "positive": 0.0089,
+          "negative": 0.9635,
+          "neutral": 0.0276
+        },
+        "sentiment_score": 2.27
+      }
+    },
+    {
+      "article_number": 3,
+      "title": "Elon Musk's latest tweets cause controversy",
+      "combined_score": 21.985999999999997,
+      "combined_confidence": 0.6791499999999999,
+      "age_weight": 1.0,
+      "title_sentiment": {
+        "sentiment": "neutral",
+        "confidence": 0.5539,
+        "scores": {
+          "positive": 0.0295,
+          "negative": 0.4166,
+          "neutral": 0.5539
+        },
+        "sentiment_score": 30.65
+      },
+      "content_sentiment": {
+        "sentiment": "negative",
+        "confidence": 0.9714,
+        "scores": {
+          "positive": 0.0067,
+          "negative": 0.9714,
+          "neutral": 0.0219
+        },
+        "sentiment_score": 1.77
+      }
+    },
+    {
+      "article_number": 4,
+      "title": "Competition heats up in the EV market",
+      "combined_score": 58.297999999999995,
+      "combined_confidence": 0.7891600000000001,
+      "age_weight": 1.0,
+      "title_sentiment": {
+        "sentiment": "neutral",
+        "confidence": 0.8878,
+        "scores": {
+          "positive": 0.0573,
+          "negative": 0.0549,
+          "neutral": 0.8878
+        },
+        "sentiment_score": 50.12
+      },
+      "content_sentiment": {
+        "sentiment": "positive",
+        "confidence": 0.559,
+        "scores": {
+          "positive": 0.559,
+          "negative": 0.0113,
+          "neutral": 0.4297
+        },
+        "sentiment_score": 77.38
+      }
+    },
+    {
+      "article_number": 5,
+      "title": "Tesla misses quarterly delivery estimates",
+      "combined_score": 3.286,
+      "combined_confidence": 0.9448399999999999,
+      "age_weight": 1.0,
+      "title_sentiment": {
+        "sentiment": "negative",
+        "confidence": 0.9341,
+        "scores": {
+          "positive": 0.0099,
+          "negative": 0.9341,
+          "neutral": 0.056
+        },
+        "sentiment_score": 3.79
+      },
+      "content_sentiment": {
+        "sentiment": "negative",
+        "confidence": 0.9699,
+        "scores": {
+          "positive": 0.0122,
+          "negative": 0.9699,
+          "neutral": 0.0179
+        },
+        "sentiment_score": 2.11
+      }
+    }
+  ]
+}

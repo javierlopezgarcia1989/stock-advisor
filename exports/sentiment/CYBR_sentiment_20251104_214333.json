@@ -1,0 +1,151 @@
+{
+  "metadata": {
+    "symbol": "CYBR",
+    "export_timestamp": "2025-11-04T21:43:33.005113",
+    "analysis_method": "finbert",
+    "version": "1.0"
+  },
+  "summary": {
+    "aggregate_score": 52.89,
+    "sentiment_label": "neutral",
+    "article_count": 5,
+    "average_confidence": 0.883
+  },
+  "articles": [
+    {
+      "article_number": 1,
+      "title": "CyberArk Software Ltd. (CYBR) Stock Price, News, Quote & History",
+      "combined_score": 53.36,
+      "combined_confidence": 0.84525,
+      "age_weight": 1.0,
+      "title_sentiment": {
+        "sentiment": "neutral",
+        "confidence": 0.9186,
+        "scores": {
+          "positive": 0.0233,
+          "negative": 0.0581,
+          "neutral": 0.9186
+        },
+        "sentiment_score": 48.26
+      },
+      "content_sentiment": {
+        "sentiment": "neutral",
+        "confidence": 0.6741,
+        "scores": {
+          "positive": 0.3156,
+          "negative": 0.0103,
+          "neutral": 0.6741
+        },
+        "sentiment_score": 65.26
+      }
+    },
+    {
+      "article_number": 2,
+      "title": "Is Now the Right Moment to Reassess CyberArk After Its 89% Share ...",
+      "combined_score": 70.74799999999999,
+      "combined_confidence": 0.8310500000000001,
+      "age_weight": 1.0,
+      "title_sentiment": {
+        "sentiment": "neutral",
+        "confidence": 0.7808,
+        "scores": {
+          "positive": 0.2062,
+          "negative": 0.013,
+          "neutral": 0.7808
+        },
+        "sentiment_score": 59.66
+      },
+      "content_sentiment": {
+        "sentiment": "positive",
+        "confidence": 0.9483,
+        "scores": {
+          "positive": 0.9483,
+          "negative": 0.0159,
+          "neutral": 0.0357
+        },
+        "sentiment_score": 96.62
+      }
+    },
+    {
+      "article_number": 3,
+      "title": "CYBR: Cyberark Software Ltd - Stock Price, Quote and News - CNBC",
+      "combined_score": 50.083999999999996,
+      "combined_confidence": 0.9394199999999999,
+      "age_weight": 1.0,
+      "title_sentiment": {
+        "sentiment": "neutral",
+        "confidence": 0.9465,
+        "scores": {
+          "positive": 0.0249,
+          "negative": 0.0286,
+          "neutral": 0.9465
+        },
+        "sentiment_score": 49.82
+      },
+      "content_sentiment": {
+        "sentiment": "neutral",
+        "confidence": 0.9229,
+        "scores": {
+          "positive": 0.0456,
+          "negative": 0.0315,
+          "neutral": 0.9229
+        },
+        "sentiment_score": 50.7
+      }
+    },
+    {
+      "article_number": 4,
+      "title": "CyberArk Software Ltd. (CYBR) Analyst Ratings, Estimates ...",
+      "combined_score": 41.26599999999999,
+      "combined_confidence": 0.8637699999999999,
+      "age_weight": 1.0,
+      "title_sentiment": {
+        "sentiment": "neutral",
+        "confidence": 0.9241,
+        "scores": {
+          "positive": 0.0594,
+          "negative": 0.0165,
+          "neutral": 0.9241
+        },
+        "sentiment_score": 52.15
+      },
+      "content_sentiment": {
+        "sentiment": "negative",
+        "confidence": 0.723,
+        "scores": {
+          "positive": 0.0404,
+          "negative": 0.723,
+          "neutral": 0.2366
+        },
+        "sentiment_score": 15.87
+      }
+    },
+    {
+      "article_number": 5,
+      "title": "News - CyberArk - Investor Relations",
+      "combined_score": 50.16499999999999,
+      "combined_confidence": 0.93397,
+      "age_weight": 1.0,
+      "title_sentiment": {
+        "sentiment": "neutral",
+        "confidence": 0.937,
+        "scores": {
+          "positive": 0.0244,
+          "negative": 0.0387,
+          "neutral": 0.937
+        },
+        "sentiment_score": 49.28
+      },
+      "content_sentiment": {
+        "sentiment": "neutral",
+        "confidence": 0.9269,
+        "scores": {
+          "positive": 0.0588,
+          "negative": 0.0143,
+          "neutral": 0.9269
+        },
+        "sentiment_score": 52.23
+      }
+    }
+  ]
+}
